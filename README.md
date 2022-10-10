@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Bryan
 - 👀 I’m interested in becoming a Full-time Front-End Web Developer
 - 🌱 I’m currently learning Basics of Front-End Web Development
-- 📫 How to reach me : bryanrndnw@gmail.com
+- 📫 How to reach me : 
+- bryanrndnw@gmail.com [Personal]
+- bryanrondonuwu14@gmail.com [Professional]
 
 <!---
 Bryanrndnw/Bryanrndnw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
