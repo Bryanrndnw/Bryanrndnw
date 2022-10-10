@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bryan
-- 👀 I’m interested in becoming a Full-time Front-End Engineer
-- 🌱 I’m currently learning Basics of Front-End Engineering
+- 👀 I’m interested in becoming a Full-time Front-End Web Developer
+- 🌱 I’m currently learning Basics of Front-End Web Development
 - 📫 How to reach me : bryanrndnw@gmail.com
 
 <!---
